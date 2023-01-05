@@ -5,6 +5,10 @@ Here, I will show you a dashboard summarizing and highlighting the key insights 
 
 NOTE- https://www.kaggle.com/code/sandeepkumar69/creditcardtrends    if you want to use the notebook. You're welcome! 😊 (Don't forget to upvote)
 
+
+[screen-capture.webm](https://user-images.githubusercontent.com/94790806/210722397-7c9cb3da-fb9b-47ad-94ce-87f04c100c22.webm)
+
+
 Total Expenditure-
 
 ![image](https://user-images.githubusercontent.com/94790806/210717666-cd0b085f-8fa8-4f9f-8cb5-80f41096ed5d.png)
